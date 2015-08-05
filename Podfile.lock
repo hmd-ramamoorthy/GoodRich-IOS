@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking (2.5.0):
+    - AFNetworking/NSURLConnection (= 2.5.0)
+    - AFNetworking/NSURLSession (= 2.5.0)
+    - AFNetworking/Reachability (= 2.5.0)
+    - AFNetworking/Security (= 2.5.0)
+    - AFNetworking/Serialization (= 2.5.0)
+    - AFNetworking/UIKit (= 2.5.0)
+  - AFNetworking/NSURLConnection (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.0)
+  - AFNetworking/Security (2.5.0)
+  - AFNetworking/Serialization (2.5.0)
+  - AFNetworking/UIKit (2.5.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - JTSImageViewController (1.4)
+  - NewRelicAgent (4.186)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+  - SSKeychain (1.2.2)
+  - Toast (2.4)
+  - ViSearch (0.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.5.0)
+  - JTSImageViewController
+  - NewRelicAgent
+  - SDWebImage (~> 3.6)
+  - SSKeychain
+  - Toast (~> 2.2)
+  - ViSearch (~> 0.0.4)
+
+SPEC CHECKSUMS:
+  AFNetworking: 96ac9bf3eda33582701cb1fcc5b896aa1e20311e
+  JTSImageViewController: 6a367b144e257db02cdfacdba78d684377d3777b
+  NewRelicAgent: c9efe4386f703c97741fbb1f65e80d5513a04866
+  SDWebImage: ed3095af2ff88b436426037444979b917f6c5575
+  SSKeychain: 88767e903ee8d274ed380e364d96b7a101235286
+  Toast: 0773b8fc0e97352ca6054517bec7ebdd4110029d
+  ViSearch: d23bb5cfed36e16cf35a5b5b2ecd71e1163f0288
+
+COCOAPODS: 0.36.1

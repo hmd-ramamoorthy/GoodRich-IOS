@@ -1,0 +1,1 @@
+../../../ViSearch/ViSearchSDK/ViSearchAPISource/ColorSearchParams.h
